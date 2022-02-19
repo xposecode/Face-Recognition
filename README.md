@@ -94,6 +94,15 @@ Then we locate the image at some fix address loaded it and then encoded it. And 
 <img width="452" alt="image" src="https://user-images.githubusercontent.com/59791131/154797609-5bd2e4e3-0470-4235-a344-7bd424234725.png">
 
 
+**ADVANTAGES AND DISADVANTAGES:**
 
+The advantages of the face recognition system include faster processing, automation of the identity, breach of privacy, massive data storage, best results, enhanced security, real time face recognition of students in schools and colleges, employees at corporate offices, smartphone unlock and many more in day-to-day life.
 
+Few disadvantages in this system include the costing, or the funding, very good cameras of high definition are required, poor image quality may limit the effectiveness of this system, size of the image will matter because it becomes difficult to recognize the face in small images, Face angles can limit the face recognition reliability, massive storage is required for this system to work effectively.
+
+**CONCLUSION**
+
+Face recognition systems are currently associated with many top technological companies and industries making the work of face recognition easier.Face recognition technology has come a long way in the last twenty years. In this project, we learned about some interesting library of OpecCV. We have done to detect the images through the webcam and also from the video. We can recognise three faces at a time. We have tried to recognise more faces at a time. And we go away from the webcam then it cannot detect the face properly. And also, we have learned to compare the two faces. This system is very important and useful system now a days. These applications usually work in controlled environments and recognition algorithms can take advantage of the environmental constraints to obtain high recognition accuracy. However, next generation face recognition systems are going to have widespread application in smart environments -- where computers and machines are more like helpful assistants.
+
+The use of python programming and OpenCV makes it an easier and handy tool or system which can be made by anyone according to their requirement. The proposed system discussed in this project will be helpful for many as it is user friendly and cost_ efficient system. Hence by the use of python and OpenCV the face recognition system can be designed for various purposes.
 
